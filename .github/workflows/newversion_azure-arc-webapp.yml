@@ -47,7 +47,7 @@ jobs:
     needs: build
     environment:
       name: 'Production'
-      url: https://azure-arc-webapp.azurewebsites.net/
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
       - name: Download artifact from build job
