@@ -65,4 +65,4 @@ jobs:
           app-name: 'azure-arc-webapp'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59507135515744FBA6986EDA6518C70D }}
-          package: ./azure-arc-jumpstart-app/build
+          package: ./
