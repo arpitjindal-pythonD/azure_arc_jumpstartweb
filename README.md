@@ -1,5 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4eca11be-70f4-4b26-a49a-9f0da1f54c64/deploy-status)](https://app.netlify.com/sites/azurearcjumpstart/deploys)
-# Azure Arc Jumpstart Documentation
+# Azure Arc Jumpstart Documentation app
 
 This repository contains the files to create the ["Azure Arc Jumpstart"](https://azurearcjumpstart.io/) website built from the markdown files located in the [project core repository](https://github.com/microsoft/azure_arc).
 
